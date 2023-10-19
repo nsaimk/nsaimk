@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saim</h1>
 
-<h3 align="center">A passionate frontend developer from London</h3>
+<h3 align="center">A passionate full stack developer from London</h3>
 
 
 <h3 align="left">Connect with me:</h3>
