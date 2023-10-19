@@ -18,7 +18,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsaimk&" alt="nsaimk" /></p>
 
 
-![Codewars](https://github.r2v.ch/codewars?user=nsaimk&stroke=%23BB432C)
-
+![Codewars](https://github.r2v.ch/codewars?user=nsaimk&stroke=blue)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsaimk&label=Profile%20views&color=0e75b6&style=flat" alt="nsaimk" /> </p>
