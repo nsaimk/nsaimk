@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Saim</h1>
-## 
 
 <h3 align="center">A passionate frontend developer from London</h3>
 
@@ -17,5 +16,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nsaimk&show_icons=true&locale=en" alt="nsaimk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsaimk&" alt="nsaimk" /></p>
+
+
+![Codewars](https://github.r2v.ch/codewars?user=andreasvogt89&stroke=%23BB432C)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsaimk&label=Profile%20views&color=0e75b6&style=flat" alt="nsaimk" /> </p>
